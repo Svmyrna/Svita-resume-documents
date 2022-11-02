@@ -1,1 +1,2 @@
 This is document to have image on GITHUB. All changes will be shown on the screen.
+These changes are made to be seen on the screen and for tracking history.
